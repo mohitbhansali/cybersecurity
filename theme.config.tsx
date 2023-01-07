@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Cybersecurity</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/mohitbhansali/cybersecurity',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/6cds2Xyk',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/mohitbhansali/cybersecurity',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Everything about Cybersecurity',
   },
 }
 
