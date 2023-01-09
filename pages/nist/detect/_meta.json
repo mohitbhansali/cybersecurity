@@ -1,0 +1,6 @@
+{
+  "siem": "SIEM",
+  "soar": "SOAR",
+  "soc": "SOC",
+  "xdr": "XDR"
+}
